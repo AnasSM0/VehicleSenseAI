@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+opencv-python-headless
+easyocr
+pillow
+requests
+python-multipart
+aiosqlite
+python-dotenv
+alembic
+python-dateutil
